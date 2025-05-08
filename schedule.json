@@ -1,0 +1,27 @@
+{
+    "last_updated": "2025-05-02",
+    "tasks": [
+        {
+            "id": 1,
+            "name": "Cycling",
+            "category": "Health & Well-being",
+            "history": [
+                "2025-05-01",
+                "2025-04-28"
+            ],
+            "reminder_days": 5,
+            "status": "completed"
+        },
+        {
+            "id": 2,
+            "name": "Stretching",
+            "category": "Health & Well-being",
+            "history": [
+                "2025-05-02",
+                "2025-05-04"
+            ],
+            "reminder_days": 3,
+            "status": "completed"
+        }
+    ]
+}
